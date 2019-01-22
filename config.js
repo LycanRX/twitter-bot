@@ -8,5 +8,5 @@ const twitterApp = {
 
 module.exports = {
   twitterApp,
-  userName: process.env.LycanRXWelcome
+  userName: process.env.USERNAME
 };
